@@ -1,0 +1,7 @@
+C:\Users\jatta\source\repos\Kotitehtävät 31a-32\Kotitehtävät 31a-32\bin\Debug\Kotitehtävät 31a-32.exe.config
+C:\Users\jatta\source\repos\Kotitehtävät 31a-32\Kotitehtävät 31a-32\bin\Debug\Kotitehtävät 31a-32.exe
+C:\Users\jatta\source\repos\Kotitehtävät 31a-32\Kotitehtävät 31a-32\bin\Debug\Kotitehtävät 31a-32.pdb
+C:\Users\jatta\source\repos\Kotitehtävät 31a-32\Kotitehtävät 31a-32\obj\Debug\Kotitehtävät 31a-32.csprojResolveAssemblyReference.cache
+C:\Users\jatta\source\repos\Kotitehtävät 31a-32\Kotitehtävät 31a-32\obj\Debug\Kotitehtävät 31a-32.csproj.CoreCompileInputs.cache
+C:\Users\jatta\source\repos\Kotitehtävät 31a-32\Kotitehtävät 31a-32\obj\Debug\Kotitehtävät 31a-32.exe
+C:\Users\jatta\source\repos\Kotitehtävät 31a-32\Kotitehtävät 31a-32\obj\Debug\Kotitehtävät 31a-32.pdb

@@ -1,0 +1,7 @@
+C:\Users\jatta\source\repos\Kotitehtävät 28-30c\Kotitehtävät 28-30c\bin\Debug\Kotitehtävät 28-30c.exe.config
+C:\Users\jatta\source\repos\Kotitehtävät 28-30c\Kotitehtävät 28-30c\bin\Debug\Kotitehtävät 28-30c.exe
+C:\Users\jatta\source\repos\Kotitehtävät 28-30c\Kotitehtävät 28-30c\bin\Debug\Kotitehtävät 28-30c.pdb
+C:\Users\jatta\source\repos\Kotitehtävät 28-30c\Kotitehtävät 28-30c\obj\Debug\Kotitehtävät 28-30c.csproj.CoreCompileInputs.cache
+C:\Users\jatta\source\repos\Kotitehtävät 28-30c\Kotitehtävät 28-30c\obj\Debug\Kotitehtävät 28-30c.exe
+C:\Users\jatta\source\repos\Kotitehtävät 28-30c\Kotitehtävät 28-30c\obj\Debug\Kotitehtävät 28-30c.pdb
+C:\Users\jatta\source\repos\Kotitehtävät 28-30c\Kotitehtävät 28-30c\obj\Debug\Kotitehtävät 28-30c.csprojResolveAssemblyReference.cache

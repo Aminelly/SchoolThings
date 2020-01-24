@@ -1,0 +1,17 @@
+D:\jatta\Documents\Koulujutut\OLIO-OHJELMOINTI\Pelit_toka\Pelit\Pelit\bin\Debug\Pelit.dll
+D:\jatta\Documents\Koulujutut\OLIO-OHJELMOINTI\Pelit_toka\Pelit\Pelit\bin\Debug\Pelit.pdb
+D:\jatta\Documents\Koulujutut\OLIO-OHJELMOINTI\Pelit_toka\Pelit\Pelit\obj\Debug\Pelit.csprojAssemblyReference.cache
+D:\jatta\Documents\Koulujutut\OLIO-OHJELMOINTI\Pelit_toka\Pelit\Pelit\obj\Debug\Pelit.csproj.CoreCompileInputs.cache
+D:\jatta\Documents\Koulujutut\OLIO-OHJELMOINTI\Pelit_toka\Pelit\Pelit\obj\Debug\Pelit.dll
+D:\jatta\Documents\Koulujutut\OLIO-OHJELMOINTI\Pelit_toka\Pelit\Pelit\obj\Debug\Pelit.pdb
+C:\Users\Mikko\source\repos\Pelit\Pelit\bin\Debug\Pelit.dll
+C:\Users\Mikko\source\repos\Pelit\Pelit\bin\Debug\Pelit.pdb
+C:\Users\Mikko\source\repos\Pelit\Pelit\obj\Debug\Pelit.csproj.CoreCompileInputs.cache
+C:\Users\Mikko\source\repos\Pelit\Pelit\obj\Debug\Pelit.dll
+C:\Users\Mikko\source\repos\Pelit\Pelit\obj\Debug\Pelit.pdb
+D:\jatta\Documents\Koulujutut\OLIO-OHJELMOINTI\Pelit\Pelit\Pelit\bin\Debug\Pelit.dll
+D:\jatta\Documents\Koulujutut\OLIO-OHJELMOINTI\Pelit\Pelit\Pelit\bin\Debug\Pelit.pdb
+D:\jatta\Documents\Koulujutut\OLIO-OHJELMOINTI\Pelit\Pelit\Pelit\obj\Debug\Pelit.csprojAssemblyReference.cache
+D:\jatta\Documents\Koulujutut\OLIO-OHJELMOINTI\Pelit\Pelit\Pelit\obj\Debug\Pelit.csproj.CoreCompileInputs.cache
+D:\jatta\Documents\Koulujutut\OLIO-OHJELMOINTI\Pelit\Pelit\Pelit\obj\Debug\Pelit.dll
+D:\jatta\Documents\Koulujutut\OLIO-OHJELMOINTI\Pelit\Pelit\Pelit\obj\Debug\Pelit.pdb
